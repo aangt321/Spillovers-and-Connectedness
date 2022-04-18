@@ -1,6 +1,6 @@
 ---
 title: "Measuring Volatility Spillovers and Connectedness"
-author: Rhamey Sayed
+author: Rhamey Sayed / Annetta Mehrvarz
 output: 
   bookdown::html_document2:
     code_folding: hide
